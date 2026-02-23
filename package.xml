@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>first_challenge_soejima</name>
+  <version>0.0.0</version>
+  <description>The first_challenge_soejima package</description>
+  <maintainer email="amsl@todo.todo">amsl</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>ament_cmake_ros</buildtool_depend>
+
+  <depend>ament_cmake_auto</depend>
+  <depend>nav_msgs</depend>
+  <depend>rclcpp</depend>
+  <depend>geometry_msgs</depend> <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
