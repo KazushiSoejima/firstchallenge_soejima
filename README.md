@@ -1,1 +1,0 @@
-# firstchallenge_soejima
